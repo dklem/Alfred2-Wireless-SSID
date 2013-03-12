@@ -1,0 +1,1 @@
+Alfred 2 extension designed to display the current Wireless SSID information both within the Alfred interface, as well as in Notification Center.
